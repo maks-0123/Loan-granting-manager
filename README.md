@@ -13,7 +13,7 @@ End-to-end ML-решение для задачи кредитного скори
 - **Визуализация**: Matplotlib, Seaborn
 
 ## 📊 Дадасет
-- Источник: Tinkoff credit scoring data
+- Источник: Kagle Tinkoff credit scoring data
 - Признаки: демография, кредитная история, скоринговые баллы
 - Целевая переменная: default_flg (0/1)
 
