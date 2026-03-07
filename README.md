@@ -41,7 +41,7 @@ pip install -r requirements.txt
 python train.py
 
 # 4. Запустить API
-uvicorn api:app --reload
+uvicorn service:app
 
 # 5. Запустить Streamlit интерфейс
 streamlit run app.py
