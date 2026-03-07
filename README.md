@@ -32,7 +32,7 @@ End-to-end ML-решение для задачи кредитного скори
 ## 🚀 Быстрый старт
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/your-username/credit-scoring-catboost.git
+git clone https://github.com/maks-0123/Loan-granting-manger.git
 
 # 2. Установить зависимости
 pip install -r requirements.txt
